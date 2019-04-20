@@ -1,0 +1,16 @@
+PODS:
+  - Delegates (1.0.0)
+
+DEPENDENCIES:
+  - Delegates (from `../`)
+
+EXTERNAL SOURCES:
+  Delegates:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Delegates: 96efe648e4a8295a621d1f6cbf0d44f1597b1cf9
+
+PODFILE CHECKSUM: cf52fdb098959bf79ec6879448bfc3414965c474
+
+COCOAPODS: 1.6.1
